@@ -11,6 +11,6 @@ th, td{
     font-family: 'Courier New', Courier, monospace;
     text-align: center;
 }
-th{
+p, th{
     font-size: 20px;
 }
